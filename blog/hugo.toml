@@ -1,0 +1,8 @@
+baseURL = 'https://localhost:1313/'
+languageCode = 'en-us'
+title = 'Tech and who'
+
+author = "Annet Felly Atemba"
+[params]
+tagline = "Welcome to my blog on Cybersecurity and Cloud Computing"
+description = "A personal blog documenting my journey in Cybersecurity and Cloud Computing"

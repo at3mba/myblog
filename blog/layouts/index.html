@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+</head>
+<body>
+    <h1>{{ .Site.Title }}</h1>
+    <div>{{ .Content }}</div>
+    <ul>
+        {{ range .Site.RegularPages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+</body>
+</html>
+{{ define "main" }}
+    <h1>{{ .Site.Params.tagline }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+{{ end }}
+

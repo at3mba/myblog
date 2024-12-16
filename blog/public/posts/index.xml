@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tech and who</title>
+    <link>https://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tech and who</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Journey into Cybersecurity and Cloud Computing</title>
+      <link>https://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://localhost:1313/posts/my-first-post/</guid>
+      <description>My Journey into Cybersecurity and Cloud Computing Introduction Over the past few years, I’ve been on an exciting journey into two incredibly dynamic fields: Cybersecurity and Cloud Computing. These fields are not only vital to modern technology but also offer countless opportunities for growth and learning. In this blog post, I’ll share my experiences, from my first steps into cybersecurity with ethical hacking to diving into the cloud computing world and earning certifications along the way.</description>
+    </item>
+  </channel>
+</rss>
